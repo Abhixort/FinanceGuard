@@ -108,6 +108,6 @@ This project is a full-stack finance dashboard application built with the MERN s
 
 ## Contact
 
-If you have any questions or feedback, please feel free to contact me at [pranjal360agarwal@gmail.com](mailto:pranjal360agarwal@gmail.com). You can also connect with me on [LinkedIn](https://www.linkedin.com/in/pranjalagarwal99/) or [Twitter](https://twitter.com/Pranjal12393385). Thank you for visiting my portfolio website!
+If you have any questions or feedback, please feel free to contact me at [a.abhigyanam@gmail.com](mailto:a.abhigyanam@gmail.com). You can also connect with me on [LinkedIn](https://www.linkedin.com/in/abhigyanam-b577b8212/). Thank you for visiting my portfolio website!
 
-# Made with ❤ by [Pranjal Agarwal](https://github.com/Pranjal360Agarwal).
+# Made with ❤ by [Abhishek Abhigyanam](https://github.com/Abhixort).
