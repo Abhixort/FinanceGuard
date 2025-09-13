@@ -110,4 +110,8 @@ This project is a full-stack finance dashboard application built with the MERN s
 
 If you have any questions or feedback, please feel free to contact me at [a.abhigyanam@gmail.com](mailto:a.abhigyanam@gmail.com). You can also connect with me on [LinkedIn](https://www.linkedin.com/in/abhigyanam-b577b8212/). Thank you for visiting my portfolio website!
 
+<<<<<<< HEAD
 # Made with ❤ by [Abhishek Abhigyanam](https://github.com/Abhixort).
+=======
+# Made with ❤ by Abhishek Abhigyanam
+>>>>>>> 3cbd7493dbf03f6a2ae49919c42014a5c6cf2524
